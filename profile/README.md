@@ -1,4 +1,4 @@
-# Billion Dollar Solo
+# 6517 Industries
 
 Building to $1B as a solo founder, powered by AI.
 
@@ -17,6 +17,5 @@ This organization is where I build public infrastructure, developer tools, and A
 
 ## Follow Along
 
-- Website: [billiondollarsolo.com](https://billiondollarsolo.com)
-- X: [@BlnDollarSolo](https://x.com/BlnDollarSolo)
+- X: [@6517Industries(https://x.com/6517Industries)
 - Founder: [@mjtechguy](https://github.com/mjtechguy)
